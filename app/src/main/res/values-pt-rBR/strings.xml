@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hint_et">Nome:</string>
+    <string name="bt_cadastro">Registrar</string>
+    <string name="txt_agradecemos">Agradecemos seu Cadastro!</string>
+    <string name="mensagem_agradecimento">Seu nome é: %1$s e seu time é: %2$s.</string>
+</resources>

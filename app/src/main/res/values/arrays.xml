@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="times">
+        <item>@string/txt_corithians</item>
+        <item>@string/txt_santos</item>
+        <item>@string/txt_palmeiras</item>
+        <item>@string/txt_saopaulo</item>
+        <item>@string/txt_vasco</item>
+    </string-array>
+</resources>

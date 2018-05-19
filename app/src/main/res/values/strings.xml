@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name" translatable="false">NAC_Kaique_Tavares_RM79173</string>
+    <string name="hint_et">Name:</string>
+    <string name="bt_cadastro">Register</string>
+
+    <string name="txt_saopaulo" translatable="false">São Paulo</string>
+    <string name="txt_santos" translatable="false">Santos</string>
+    <string name="txt_palmeiras" translatable="false">Palmeiras</string>
+    <string name="txt_corithians" translatable="false">Corithians</string>
+    <string name="txt_vasco" translatable="false">Vasco</string>
+
+    <string name="txt_agradecemos">Thank you for registering!</string>
+
+    <string name="mensagem_agradecimento">
+        Your name is: %1$s and your team is: %2$s.
+    </string>
+</resources>
